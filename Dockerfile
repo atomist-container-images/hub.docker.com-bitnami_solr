@@ -1,12 +1,15 @@
-# Tags: latest, 8.11.1-debian-10-r99, 8.11.1, 8-debian-10, 8
+# Tags: latest, 8.11.1-debian-10-r100, 8.11.1, 8-debian-10, 8
 FROM bitnami/solr:latest
-FROM bitnami/solr:8.11.1-debian-10-r99
+FROM bitnami/solr:8.11.1-debian-10-r100
 FROM bitnami/solr:8.11.1
 FROM bitnami/solr:8-debian-10
 FROM bitnami/solr:8
 
 # Tags: _
 FROM bitnami/solr:_
+
+# Tags: 8.11.1-debian-10-r99
+FROM bitnami/solr:8.11.1-debian-10-r99
 
 # Tags: 8.11.1-debian-10-r98
 FROM bitnami/solr:8.11.1-debian-10-r98
