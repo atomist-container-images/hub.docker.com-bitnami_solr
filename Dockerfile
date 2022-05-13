@@ -1,12 +1,42 @@
-# Tags: latest, 8.11.1-debian-10-r132, 8.11.1, 8-debian-10, 8
+# Tags: latest, 8.11.1-debian-10-r142, 8.11.1, 8-debian-10, 8
 FROM bitnami/solr:latest
-FROM bitnami/solr:8.11.1-debian-10-r132
+FROM bitnami/solr:8.11.1-debian-10-r142
 FROM bitnami/solr:8.11.1
 FROM bitnami/solr:8-debian-10
 FROM bitnami/solr:8
 
 # Tags: _
 FROM bitnami/solr:_
+
+# Tags: 8.11.1-debian-10-r141
+FROM bitnami/solr:8.11.1-debian-10-r141
+
+# Tags: 8.11.1-debian-10-r140
+FROM bitnami/solr:8.11.1-debian-10-r140
+
+# Tags: 8.11.1-debian-10-r139
+FROM bitnami/solr:8.11.1-debian-10-r139
+
+# Tags: 8.11.1-debian-10-r138
+FROM bitnami/solr:8.11.1-debian-10-r138
+
+# Tags: 8.11.1-debian-10-r137
+FROM bitnami/solr:8.11.1-debian-10-r137
+
+# Tags: 8.11.1-debian-10-r136
+FROM bitnami/solr:8.11.1-debian-10-r136
+
+# Tags: 8.11.1-debian-10-r135
+FROM bitnami/solr:8.11.1-debian-10-r135
+
+# Tags: 8.11.1-debian-10-r134
+FROM bitnami/solr:8.11.1-debian-10-r134
+
+# Tags: 8.11.1-debian-10-r133
+FROM bitnami/solr:8.11.1-debian-10-r133
+
+# Tags: 8.11.1-debian-10-r132
+FROM bitnami/solr:8.11.1-debian-10-r132
 
 # Tags: 8.11.1-debian-10-r131
 FROM bitnami/solr:8.11.1-debian-10-r131
@@ -64,33 +94,3 @@ FROM bitnami/solr:8.11.1-debian-10-r114
 
 # Tags: 8.11.1-debian-10-r113
 FROM bitnami/solr:8.11.1-debian-10-r113
-
-# Tags: 8.11.1-debian-10-r112
-FROM bitnami/solr:8.11.1-debian-10-r112
-
-# Tags: 8.11.1-debian-10-r111
-FROM bitnami/solr:8.11.1-debian-10-r111
-
-# Tags: 8.11.1-debian-10-r110
-FROM bitnami/solr:8.11.1-debian-10-r110
-
-# Tags: 8.11.1-debian-10-r109
-FROM bitnami/solr:8.11.1-debian-10-r109
-
-# Tags: 8.11.1-debian-10-r108
-FROM bitnami/solr:8.11.1-debian-10-r108
-
-# Tags: 8.11.1-debian-10-r107
-FROM bitnami/solr:8.11.1-debian-10-r107
-
-# Tags: 8.11.1-debian-10-r106
-FROM bitnami/solr:8.11.1-debian-10-r106
-
-# Tags: 8.11.1-debian-10-r105
-FROM bitnami/solr:8.11.1-debian-10-r105
-
-# Tags: 8.11.1-debian-10-r104
-FROM bitnami/solr:8.11.1-debian-10-r104
-
-# Tags: 8.11.1-debian-10-r103
-FROM bitnami/solr:8.11.1-debian-10-r103
